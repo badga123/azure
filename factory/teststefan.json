@@ -1,0 +1,9 @@
+{
+	"name": "teststefan",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2613dfc-449f-41ad-a24e-80f1ceaa031c",
+		"tenantId": "9f75a80d-bb5d-429c-a0e2-7c47b1a8833f"
+	}
+}
